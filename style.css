@@ -217,9 +217,8 @@ section {
     scroll-margin-top: 80px; /* Matches the height of the fixed header */
   }
 
-  @media (min-width: 769px) and (max-width: 1024px){
-    section.about img{
-        display:none;
+@media only screen and (max-width: 768px){
+    section.about.img{
+        width:340px;
+        height:200px;
     }
-
-  }
