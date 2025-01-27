@@ -219,8 +219,7 @@ section {
 
   @media (min-width: 769px) and (max-width: 1024px){
     section.about img{
-        width: 300px;
-        height:200px;
+        display:none;
     }
 
   }
