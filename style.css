@@ -222,14 +222,18 @@ section {
     width: 240px;
 }
 .pro-cards.card{
-    width:22rem;
+    width:80%;
 }
 
 .s-col{
     width:80%;
 }
+    .navbar{
+        flex-direction:column;
+    }
 
     .heading::after {
     left: 40%;
      height:4px;
+        width:60px
     }
