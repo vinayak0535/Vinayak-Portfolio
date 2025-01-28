@@ -230,6 +230,7 @@ section.projects.pro-cards.card{
 }
     header{
         flex-direction:column;
+        padding-inline:10px;
     }
 
     .heading::after {
