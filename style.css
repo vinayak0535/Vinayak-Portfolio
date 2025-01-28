@@ -221,3 +221,6 @@ section {
     height: 260px;
     width: 240px;
 }
+.pro-cards card{
+    width:22rem;
+}
