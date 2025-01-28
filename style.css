@@ -74,11 +74,6 @@ section.about img{
     border-radius: 8px;
 }
 
-section.about ul li i {
-    color: #2359ee;
-    font-size: 22px;
-    margin-right: 10px;
-}
 
 /* skills */
 
@@ -218,7 +213,11 @@ section {
   }
 
 @media only screen and (max-width: 768px){
-    section.about.img{
+    section.about img{
         width:340px;
         height:200px;
     }
+.hero img {
+    height: 260px;
+    width: 240px;
+}
