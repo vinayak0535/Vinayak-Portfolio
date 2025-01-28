@@ -221,14 +221,14 @@ section {
     height: 260px;
     width: 240px;
 }
-.pro-cards.card{
+section.projects.pro-cards.card{
     width:80%;
 }
 
 .s-col{
     width:80%;
 }
-    .navbar{
+    header{
         flex-direction:column;
     }
 
