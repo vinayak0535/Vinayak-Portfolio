@@ -237,3 +237,11 @@ section.projects.pro-cards.card{
      height:4px;
         width:60px
     }
+
+    .nav-item{
+        font-size:14px;
+    }
+
+    ul.nav{
+        text-align:center;
+    }
