@@ -228,3 +228,8 @@ section {
 .s-col{
     width:80%;
 }
+
+    .heading::after {
+    left: 40%;
+     height:4px;
+    }
