@@ -193,7 +193,7 @@ textarea:focus{
 
 }
 
-header{
+nav{
     background-color: #ddd;
   color: white;
   position: fixed; /* Fixes the header at the top */
