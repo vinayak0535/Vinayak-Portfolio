@@ -227,10 +227,6 @@ section {
 .s-col{
     width:80%;
 }
-    nav{
-        flex-direction:column;
-        padding-inline:10px;
-    }
 
     .heading::after {
     left: 40%;
@@ -238,7 +234,7 @@ section {
         width:60px
     }
 
-    .nav-item{
+/*     .nav-item{
         font-size:14px;
     }
 
@@ -249,7 +245,7 @@ section {
     .card img {
     background-size: cover;
 }
-
+ */
 .card-body{
     margin-top:4px;
      font-size:80%
