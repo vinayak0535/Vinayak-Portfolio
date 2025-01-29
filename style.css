@@ -234,20 +234,12 @@ section {
         width:60px
     }
 
-/*     .nav-item{
-        font-size:14px;
-    }
-
-    ul.nav{
-        text-align:center;
-    }
-
-    .card img {
-    background-size: cover;
-}
- */
 .card-body{
     margin-top:4px;
      font-size:80%
 }
+    nav{
+        padding:0;
+        margin:0;
+    }
 }
