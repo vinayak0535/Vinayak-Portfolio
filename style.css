@@ -159,7 +159,9 @@ section.about img{
     padding-block: 10px;
 }
 
-
+.pro-cards.card{
+    width:25rem;
+}
 
 
 .card {
@@ -246,3 +248,7 @@ section.projects.pro-cards.card{
     ul.nav{
         text-align:center;
     }
+    ..pro-cards.card{
+    width:22rem;
+}
+}
