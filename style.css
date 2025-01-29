@@ -222,9 +222,7 @@ section {
     height: 260px;
     width: 240px;
 }
-section.projects.pro-cards.card{
-    width:22rem;
-}
+
 
 .s-col{
     width:80%;
@@ -248,14 +246,15 @@ section.projects.pro-cards.card{
         text-align:center;
     }
     .card{
-    width:80%;
+    width:90%;
+        font-size:80%
 }
     .card img {
-    height: 180px;
+    height: 120px;
     background-size: cover;
 }
 
 .card-body{
-    margin-top: 15px;
+    margin-top: 5px;
 }
 }
