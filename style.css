@@ -243,4 +243,7 @@ section {
         margin-right:0;
         width:100%;
     }
+    body, html {
+    overflow-x: hidden;
+}
 }
