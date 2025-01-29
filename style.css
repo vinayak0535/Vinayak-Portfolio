@@ -248,6 +248,14 @@ section.projects.pro-cards.card{
         text-align:center;
     }
     .card{
-    width:60%;
+    width:80%;
+}
+    .card img {
+    height: 180px;
+    background-size: cover;
+}
+
+.card-body{
+    margin-top: 15px;
 }
 }
