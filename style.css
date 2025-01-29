@@ -238,6 +238,7 @@ section {
 }
     nav{
         padding:0;
-        margin:0;
+        margin-right:0;
+        width:100%;
     }
 }
