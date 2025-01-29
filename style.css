@@ -33,14 +33,7 @@ body {
 
 }
 
- nav.custom-sticky {
-    position: sticky !important;
-    top: 0;
-    z-index: 1020;
-    width: 100%;
-    background-color: white;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-  }
+
 
 .heading {
     text-align: center;
@@ -245,12 +238,12 @@ section {
     overflow-x: hidden;
 }
 
-     .custom-sticky {
-    position: sticky !important;
-    top: 0;
-    z-index: 1020;
-    width: 100%;
-    background-color: white;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-  }
+.custom-sticky {
+                position: sticky !important;
+                top: 0;
+                width: 100%;
+                z-index: 1050;
+                background-color: white;
+                box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            }
 }
