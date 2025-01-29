@@ -248,7 +248,7 @@ section.projects.pro-cards.card{
     ul.nav{
         text-align:center;
     }
-    ..pro-cards.card{
+    .pro-cards.card{
     width:22rem;
 }
 }
