@@ -229,7 +229,7 @@ section.projects.pro-cards.card{
 .s-col{
     width:80%;
 }
-    header{
+    nav{
         flex-direction:column;
         padding-inline:10px;
     }
