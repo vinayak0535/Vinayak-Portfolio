@@ -97,9 +97,9 @@ section.about img{
     /* width: 420px; */
     border-radius: 8px;
     margin-top: 40px;
-    /* width: 30%;    */
-    width: 420px;
-    height: 300px;
+     width: 30%;
+    /*width: 420px;
+    height: 300px;*/
 }
 
 .s-col:hover {
