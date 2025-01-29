@@ -239,7 +239,7 @@ section {
 }
 
 .custom-sticky {
-                position: sticky !important;
+                position: fixed !important;
                 top: 0;
                 width: 100%;
                 z-index: 1050;
