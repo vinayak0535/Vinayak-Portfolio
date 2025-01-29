@@ -159,14 +159,13 @@ section.about img{
     padding-block: 10px;
 }
 
-.pro-cards.card{
-    width:350px;
-}
+
 
 
 .card {
     border: none;
     outline: none;
+    width:30%
     /* box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); */
 
 }
@@ -248,7 +247,7 @@ section.projects.pro-cards.card{
     ul.nav{
         text-align:center;
     }
-    .pro-cards.card{
-    width:250px;
+    .card{
+    width:60%;
 }
 }
