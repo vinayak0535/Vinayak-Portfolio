@@ -245,16 +245,14 @@ section {
     ul.nav{
         text-align:center;
     }
-    .card{
-    width:90%;
-        font-size:80%
-}
+
     .card img {
     height: 120px;
     background-size: cover;
 }
 
 .card-body{
-    margin-top: 5px;
+    margin-top:4px;
+     font-size:80%
 }
 }
